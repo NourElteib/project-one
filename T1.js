@@ -41,7 +41,9 @@ let quse=document.getElementById('quse');
     next.classList.remove('active');
    }
  }
- 
+ ()=>{
+  console.log('hello');
+ }
 pre.onclick=()=>{
      if(current>0){
       current--;
