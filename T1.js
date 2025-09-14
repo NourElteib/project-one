@@ -61,4 +61,6 @@ pre.onclick=()=>{
 }
 
    
-
+function nour(){
+  console.log('hello');
+}
